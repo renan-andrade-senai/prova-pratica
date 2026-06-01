@@ -150,3 +150,12 @@ A aplicação ficará disponível em: `http://localhost:5173`
 - Você pode consultar a documentação oficial das tecnologias utilizadas (Vue, Axios, Bootstrap, Vue Router)
 - O arquivo `db.json` já vem com dados iniciais — não o apague, pois ele é a base da sua API
 - Certifique-se de que a API (`npm run api`) está rodando antes de testar a aplicação
+
+# Imagens
+![listagem](listagem.png)
+
+
+![detalhes](detalhes.png)
+
+
+![novo](novo%20agendamento.png)
